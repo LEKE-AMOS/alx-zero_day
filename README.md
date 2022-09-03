@@ -1,1 +1,1 @@
-git is good
+my first readme
